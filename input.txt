@@ -1,0 +1,22 @@
+A B C D F
+A B C E
+B C D E F 
+A C D E
+C D F
+D E F
+D E 
+C D F
+C F
+A C D E
+C E
+A C D F
+A C E
+B C D E F 
+A B D E
+C D F
+D F
+C D F
+C E F
+B C E
+C F
+B D
